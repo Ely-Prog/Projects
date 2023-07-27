@@ -1,5 +1,5 @@
 from secrets import compare_digest 
-import password_gen_main
+import password_gen_vault
 
 
 
