@@ -1,0 +1,1 @@
+variable = int(6)
